@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/minemath/static/css/main.e6c13ad2.css",
+    "main.js": "/minemath/static/js/main.519fac88.js",
+    "static/js/488.8455e879.chunk.js": "/minemath/static/js/488.8455e879.chunk.js",
+    "index.html": "/minemath/index.html",
+    "main.e6c13ad2.css.map": "/minemath/static/css/main.e6c13ad2.css.map",
+    "main.519fac88.js.map": "/minemath/static/js/main.519fac88.js.map",
+    "488.8455e879.chunk.js.map": "/minemath/static/js/488.8455e879.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.519fac88.js"
+  ]
+}
